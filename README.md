@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Skills
-<img src="https://skillicons.dev/icons?i=python,js,html,css,gcp,react,nodejs,arduino,bash,debian,git,instagram,notion,ps,php,powershell,windows,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,powershell,bash,php,debian,git,arduino,vscode" />
 
 ---
 
