@@ -4,9 +4,9 @@
 ---
 
 - 🚀 Things I'm currently working on:  
-  `Digital Marketing`, `Full-Stack Web Development`, `AI`, `Cyber Security`, `Cloud Computing`
+  `Digital Marketing`, `Full-Stack Web Development`, `Cyber Security`
 
-- 🌐 Ads Company Web Site: [Flow Reklam](https://flowreklam.com)
+- 🌐 Software Company: [Flow Yazılım](https://flowyazilim.com)
 
 ---
 
@@ -17,12 +17,9 @@
 
 ### 🧠 Things I'm currently learning on:
 - C2 English
-- AI Deep Learning
-- Front End and Back End Web Developing
-- Penetration Testing
-- Cloud Computing in AWS
+- Full-Stack Development
+- Cyber Security Engineering
 - Digital Marketing Experting
-- Finance and more...
 
 ---
 
