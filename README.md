@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batın</h1>
-<h3 align="center">As a 19-year-old digital marketing company owner, I'm actively improving myself in the fields of AI, cybersecurity, and cloud computing.</h3>
+<h3 align="center">As a 19-year-old digital marketing agency and software company owner, I'm actively improving myself in the fields of Full-Stack Web Development and Cyber Security</h3>
 
 ---
 
